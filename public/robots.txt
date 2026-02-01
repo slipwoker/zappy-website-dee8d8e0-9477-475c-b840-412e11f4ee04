@@ -1,0 +1,4 @@
+User-agent: *
+Allow: /
+
+Sitemap: https://ads-door-dee8d8e0.zappy5.app/sitemap.xml

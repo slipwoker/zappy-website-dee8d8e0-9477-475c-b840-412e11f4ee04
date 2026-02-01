@@ -1,0 +1,89 @@
+# Ads Door — Generative Engine Optimization Map
+
+> A בניין ושיפוצים business.
+
+---
+
+## Pages
+
+### Home
+https://ads-door-dee8d8e0.zappy5.app
+
+### Services
+https://ads-door-dee8d8e0.zappy5.app/services
+
+### Process
+https://ads-door-dee8d8e0.zappy5.app/process
+
+### Contact
+https://ads-door-dee8d8e0.zappy5.app/contact
+
+### Products
+https://ads-door-dee8d8e0.zappy5.app/products
+המוצרים שלנו - Ads Door
+
+### Cart
+https://ads-door-dee8d8e0.zappy5.app/cart
+עגלת הקניות שלך
+
+### Checkout
+https://ads-door-dee8d8e0.zappy5.app/checkout
+תשלום
+
+### Login
+https://ads-door-dee8d8e0.zappy5.app/login
+התחברות לקוחות
+
+### Account
+https://ads-door-dee8d8e0.zappy5.app/account
+החשבון שלי
+
+### Order Success
+https://ads-door-dee8d8e0.zappy5.app/order-success
+תודה על ההזמנה
+
+### Product Detail
+https://ads-door-dee8d8e0.zappy5.app/product/:slug
+פרטי המוצר - Ads Door
+
+### Category
+https://ads-door-dee8d8e0.zappy5.app/category/:slug
+מוצרים - Ads Door
+
+## Legal & Policy
+
+### Privacy Policy
+https://ads-door-dee8d8e0.zappy5.app/privacy
+Information about how user data is collected, stored, and protected.
+
+### Terms & Conditions
+https://ads-door-dee8d8e0.zappy5.app/terms
+Legal terms describing service usage, rights, and policies.
+
+### Accessibility Statement
+https://ads-door-dee8d8e0.zappy5.app/accessibility
+Information about WCAG compliance and accessibility features.
+
+---
+
+# Business Context (for LLM understanding)
+
+## About Ads Door
+Ads Door is a business in the בניין ושיפוצים industry.
+
+## Target Audience
+- משפצי בתים
+- קבלני בניין
+- יזמי נדל"ן
+- מעצבי פנים
+- חברות ניהול נכסים
+
+## Industry
+בניין ושיפוצים
+
+---
+
+# Additional Resources
+
+- **Sitemap**: https://ads-door-dee8d8e0.zappy5.app/sitemap.xml
+- **Robots.txt**: https://ads-door-dee8d8e0.zappy5.app/robots.txt
